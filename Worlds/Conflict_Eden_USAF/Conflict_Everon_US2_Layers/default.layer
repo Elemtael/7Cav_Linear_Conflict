@@ -122,6 +122,171 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
   SCR_CampaignFaction "{50B30C3ADB052C80}" {
    FactionKey "RHS_USAF"
    m_FactionLabel FACTION_RHS_USAF
+   m_aPredefinedGroups {
+    SCR_GroupPreset "{64F9497DE73D014D}" {
+     m_sGroupName "Gunslinger-6"
+     m_sGroupDescription "Platoon Leader"
+     m_iGroupSize 1
+     m_iRadioFrequency 50500
+    }
+    SCR_GroupPreset "{64F9497DC1326004}" {
+     m_sGroupName "Gunslinger-5"
+     m_sGroupDescription "Platoon Sergeant"
+     m_iGroupSize 1
+     m_iRadioFrequency 50500
+    }
+    SCR_GroupPreset "{64F9497C705F62ED}" {
+     m_sGroupName "Gunslinger-7"
+     m_sGroupDescription "Platoon Medic"
+     m_iGroupSize 1
+     m_iRadioFrequency 50500
+    }
+    SCR_GroupPreset "{64F9497C34C7034E}" {
+     m_sGroupName "Gunslinger-1"
+     m_sGroupDescription "Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 51000
+    }
+    SCR_GroupPreset "{64F9497ED92350AA}" {
+     m_sGroupName "Gunslinger-2"
+     m_sGroupDescription "Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 51500
+    }
+    SCR_GroupPreset "{64F9497ECC01A158}" {
+     m_sGroupName "Gunslinger-3"
+     m_sGroupDescription "Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 52000
+    }
+    SCR_GroupPreset "{64F9497C7F4D659C}" {
+     m_sGroupName "Gunslinger-4"
+     m_sGroupDescription "Weapons Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 52500
+    }
+    SCR_GroupPreset "{64F9497C5EC9CB46}" {
+     m_sGroupName "Helios-6"
+     m_sGroupDescription "Attachment Platoon Leader"
+     m_iGroupSize 1
+     m_iRadioFrequency 40500
+    }
+    SCR_GroupPreset "{64F9497C47F372EC}" {
+     m_sGroupName "Helios-5"
+     m_sGroupDescription "Attachment Platoon Sergeant"
+     m_iGroupSize 1
+     m_iRadioFrequency 40500
+    }
+    SCR_GroupPreset "{64F9497930EFA06A}" {
+     m_sGroupName "Helios-7"
+     m_sGroupDescription "Attachment Platoon Sergeant"
+     m_iGroupSize 1
+     m_iRadioFrequency 40500
+    }
+    SCR_GroupPreset "{64F949790C3DF979}" {
+     m_sGroupName "Helios-1"
+     m_sGroupDescription "Medical Team"
+     m_iGroupSize 4
+     m_iRadioFrequency 41000
+    }
+    SCR_GroupPreset "{64F949797B33A3D8}" {
+     m_sGroupName "Helios-2"
+     m_sGroupDescription "Medical Team"
+     m_iGroupSize 4
+     m_iRadioFrequency 41500
+    }
+    SCR_GroupPreset "{64F9497C91D8F0AB}" {
+     m_sGroupName "Helios-3"
+     m_sGroupDescription "Logistics Team"
+     m_iGroupSize 6
+     m_iRadioFrequency 42000
+    }
+    SCR_GroupPreset "{64F9497CD0EF913E}" {
+     m_sGroupName "Viking-6"
+     m_sGroupDescription "Motorized Platoon Leader"
+     m_iGroupSize 2
+     m_iRadioFrequency 45500
+    }
+    SCR_GroupPreset "{64F9497F3D07A5F5}" {
+     m_sGroupName "Viking-5"
+     m_sGroupDescription "Motorized Platoon Sergeant"
+     m_iGroupSize 2
+     m_iRadioFrequency 45500
+    }
+    SCR_GroupPreset "{64F9497F228A3768}" {
+     m_sGroupName "Viking-7"
+     m_sGroupDescription "Motorized Platoon Medic"
+     m_iGroupSize 2
+     m_iRadioFrequency 45500
+    }
+    SCR_GroupPreset "{64F9497F7FF62AC7}" {
+     m_sGroupName "Viking-1"
+     m_sGroupDescription "Motorized Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 46000
+    }
+    SCR_GroupPreset "{64F949795EEDF36C}" {
+     m_sGroupName "Viking-2"
+     m_sGroupDescription "Motorized Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 46500
+    }
+    SCR_GroupPreset "{64F949794A6D545B}" {
+     m_sGroupName "Viking-3"
+     m_sGroupDescription "Motorized Maneuver Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 47000
+    }
+    SCR_GroupPreset "{64F9497F56A4B908}" {
+     m_sGroupName "Viking-4"
+     m_sGroupDescription "Motorized Weapons Squad"
+     m_iGroupSize 9
+     m_iRadioFrequency 47500
+    }
+    SCR_GroupPreset "{64F9497FF35B150A}" {
+     m_sGroupName "Chaos-1"
+     m_sGroupDescription "FAC"
+     m_iGroupSize 2
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497F978E682B}" {
+     m_sGroupName "Buffalo-1"
+     m_sGroupDescription "Rotary Transport"
+     m_iGroupSize 4
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497F8A695334}" {
+     m_sGroupName "Buffalo-2"
+     m_sGroupDescription "Rotary Transport"
+     m_iGroupSize 4
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497FCF362A4B}" {
+     m_sGroupName "Buffalo-3"
+     m_sGroupDescription "Rotary Transport"
+     m_iGroupSize 4
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497FC2B166F8}" {
+     m_sGroupName "Buffalo-4"
+     m_sGroupDescription "Rotary Transport"
+     m_iGroupSize 4
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497E1861ADDD}" {
+     m_sGroupName "Sparrow-1"
+     m_sGroupDescription "Rotary Attack"
+     m_iGroupSize 2
+     m_iRadioFrequency 32000
+    }
+    SCR_GroupPreset "{64F9497E01BABABF}" {
+     m_sGroupName "Sparrow-2"
+     m_sGroupDescription "Rotary Attack"
+     m_iGroupSize 2
+     m_iRadioFrequency 32000
+    }
+   }
+   m_bCreateOnlyPredefinedGroups 1
    m_aRanks {
     SCR_CharacterRank "{632072CA87B3EB70}" {
      m_iRank COLONEL
@@ -1651,9 +1816,44 @@ SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManag
   SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
    m_sLoadoutResource "{305087F7627D5B0B}Prefabs/Characters/Campaign/Final/CPR_USSR_Player.et"
   }
+  SCR_FactionPlayerLoadout "{64F94978B28C6D41}" {
+   m_sLoadoutName "Squad Leader"
+   m_sLoadoutResource "{225DD8A5801D95BE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_SL_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_FactionPlayerLoadout "{64F949789859F609}" {
+   m_sLoadoutName "Team Leader"
+   m_sLoadoutResource "{3B9493F210A170BC}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_TL_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
   SCR_FactionPlayerLoadout "{64F90689D5955A5D}" {
    m_sLoadoutName "Rifleman"
-   m_sLoadoutResource "{E92B2A4970D82027}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_FORECON/Character_RHS_USAF_FORECON_Rifleman.et"
+   m_sLoadoutResource "{FCA1335121ABF543}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_Rifleman_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_FactionPlayerLoadout "{64F949788731566A}" {
+   m_sLoadoutName "Autorifleman"
+   m_sLoadoutResource "{493CE06A1AD8E8B7}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_MG_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_FactionPlayerLoadout "{64F94978F31CE357}" {
+   m_sLoadoutName "Grenadier"
+   m_sLoadoutResource "{6AD6EBC49879D406}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_GL_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_PlayerArsenalLoadout "{64F94978E31D14E8}" {
+   m_sLoadoutName "LAT Rifleman"
+   m_sLoadoutResource "{F87C75AA9EB7A64A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_LAT_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_FactionPlayerLoadout "{64F94978C8786F50}" {
+   m_sLoadoutName "CLS"
+   m_sLoadoutResource "{EAB17542C6D756EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_MARSOC_MC/Character_RHS_USMC_MARSOC_MC_Medic_CAV.et"
+   m_sAffiliatedFaction "RHS_USAF"
+  }
+  SCR_FactionPlayerLoadout "{64F9497B160EE781}" {
+   m_sLoadoutName "Rotary Pilot"
+   m_sLoadoutResource "{1491F68482212FEC}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_HeliPilot_CAV.et"
    m_sAffiliatedFaction "RHS_USAF"
   }
  }

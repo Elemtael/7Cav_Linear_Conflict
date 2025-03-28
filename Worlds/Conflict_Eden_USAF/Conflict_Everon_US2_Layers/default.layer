@@ -448,10 +448,30 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
      }
     }
     SCR_EntityCatalogMultiList "{5C68A0EEB3F124F9}" {
+     m_eEntityCatalogType NONE
+    }
+    SCR_EntityCatalogMultiList "{64F94966A0CFB491}" : "{3BFC57A750823093}Configs/EntityCatalog/USMC/USMC_InventoryItems.conf" {
      m_aMultiLists {
-      SCR_EntityCatalogMultiListEntry "{5C68AD59AB9FBDDC}" {
+      SCR_EntityCatalogMultiListEntry "{5D4A8E6F2C9744F2}" {
        m_aEntities {
-        SCR_EntityCatalogInventoryItem "{5C62F7D8ECAFAAA3}" {
+        SCR_EntityCatalogInventoryItem "{622764B6927E7EFE}" {
+         m_bEnabled 0
+        }
+       }
+      }
+      SCR_EntityCatalogMultiListEntry "{5D4A8E6F2C974413}" {
+       m_aEntities {
+        SCR_EntityCatalogInventoryItem "{5F1D5E6929D850F8}" {
+         m_bEnabled 0
+        }
+        SCR_EntityCatalogInventoryItem "{5F1F701B141FE129}" {
+         m_bEnabled 0
+        }
+       }
+      }
+      SCR_EntityCatalogMultiListEntry "{64F2F9332D94165C}" {
+       m_aEntities {
+        SCR_EntityCatalogInventoryItem "{6134C33203AB98BA}" {
          m_bEnabled 0
         }
        }

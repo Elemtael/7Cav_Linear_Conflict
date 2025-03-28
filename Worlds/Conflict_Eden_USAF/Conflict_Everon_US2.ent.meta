@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A8094732B2BAA43B}Worlds/Conflict_Eden_US/Conflict_Everon_US2.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

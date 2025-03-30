@@ -1,0 +1,77 @@
+Vehicle : "{0FBF8F010F81A4E5}Prefabs/Vehicles/Wheeled/LAV25/LAV25.et" {
+ ID "0000000000000001"
+ components {
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_sFaction "RHS_USAF"
+    m_aAutoLabels {
+     1677929688 14 122
+    }
+   }
+  }
+  SCR_VehicleFactionAffiliationComponent "{5882CBD9AC741CEC}" {
+   "faction affiliation" "RHS_USAF"
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo Turret {
+     Prefab "{EFF08C8B467C3380}Prefabs/Vehicles/Wheeled/LAV25/VehParts/Turret/LAV25_turret_rhs.et"
+    }
+    RHS_TriplexEntitySlotInfo triplex_front {
+     PivotID "v_body"
+     Offset 0.4217 1.9096 1.2015
+     Angles 0 90 -90
+     Prefab "{4210A310FA04F3DA}Prefabs/Vehicles/Shared/Gauges_Ru/RHS_TNPO170A_Invisible.et"
+     DisablePhysicsInteraction 1
+     RegisterActions 1
+     RegisterCompartments 1
+     m_CameraPointInfo RHS_CustomCameraPointInfo "{64FD1A1BDF515B8E}" {
+      PivotID "v_body"
+      Offset 0.4246 1.9823 1.2942
+      Angles 90 0 -180
+      m_fCameraFoV 45
+      m_fRotationAngle 0
+      m_rCameraOverlayLayout "{C5E2E281F03A5CE8}UI/layouts/Sights/Optic_Triplex.layout"
+      m_bInstantMoveCamera 1
+     }
+    }
+    RHS_TriplexEntitySlotInfo triplex_front_r {
+     PivotID "v_body"
+     Offset 0.2041 1.8443 1.2015
+     Angles 39.9897 90 -90
+     Prefab "{4210A310FA04F3DA}Prefabs/Vehicles/Shared/Gauges_Ru/RHS_TNPO170A_Invisible.et"
+     DisablePhysicsInteraction 1
+     RegisterActions 1
+     RegisterCompartments 1
+     m_CameraPointInfo RHS_CustomCameraPointInfo "{64FD1A1BDF515B9E}" {
+      PivotID "v_body"
+      Offset 0.1705 1.8999 1.3014
+      Angles 48.9207 -90 90
+      m_fCameraFoV 45
+      m_fRotationAngle 0
+      m_rCameraOverlayLayout "{C5E2E281F03A5CE8}UI/layouts/Sights/Optic_Triplex.layout"
+      m_bInstantMoveCamera 1
+     }
+    }
+    RHS_TriplexEntitySlotInfo triplex_front_l {
+     PivotID "v_body"
+     Offset 0.6437 1.8486 1.2015
+     Angles -39.9897 90 -90
+     Prefab "{4210A310FA04F3DA}Prefabs/Vehicles/Shared/Gauges_Ru/RHS_TNPO170A_Invisible.et"
+     DisablePhysicsInteraction 1
+     RegisterActions 1
+     RegisterCompartments 1
+     m_CameraPointInfo RHS_CustomCameraPointInfo "{64FD1A1BDF515B9B}" {
+      PivotID "v_body"
+      Offset 0.6804 1.8965 1.3054
+      Angles 51.095 90 -90
+      m_fCameraFoV 45
+      m_fRotationAngle 0
+      m_rCameraOverlayLayout "{C5E2E281F03A5CE8}UI/layouts/Sights/Optic_Triplex.layout"
+      m_bInstantMoveCamera 1
+     }
+    }
+   }
+  }
+ }
+}

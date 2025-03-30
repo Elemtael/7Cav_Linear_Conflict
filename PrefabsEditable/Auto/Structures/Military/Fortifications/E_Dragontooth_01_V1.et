@@ -1,0 +1,33 @@
+StaticModelEntity : "{C16C62041E2AAAB2}Prefabs/Structures/Military/Fortifications/Dragontooth_01/Dragontooth_01_V1.et" {
+ ID "5272E314C5058BE6"
+ components {
+  SCR_EditableEntityComponent "{5EF0BDF2D0B9DC02}" : "{7933327C6791C5D0}Prefabs/Editor/Components/Structures_SCR_EditableEntityComponent.ct" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-EditableEntity_Dragontooth_01_V1_Name"
+    m_Image "{A6EBE3192B7592E8}UI/Textures/EditorPreviews/Auto/Structures/Military/Fortifications/E_Dragontooth_01_V1.edds"
+    m_sFaction "RHS_USAF"
+    m_aAuthoredLabels {
+    }
+    m_aAutoLabels {
+     108 1 121 1677929688
+    }
+   }
+  }
+  SCR_PreviewEntityComponent "{5EF0BDF2D0B8162F}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+   m_bRuntime 0
+   m_aEntries {
+    SCR_BasePreviewEntry "{64FD1A01E4E5C029}" {
+     m_iParentID -1
+     m_Mesh "{414B875C942EFBE0}Assets/Structures/Military/Fortifications/Dragonsteeth_01/Dragonsteeth_01.xob"
+     m_Flags 257
+     m_Shape MESH
+     m_iPivotID ""
+     m_vScale 1 1 1
+     m_vPosition 0 0 0
+     m_vAngles 0 0 0
+    }
+   }
+  }
+ }
+ placement none
+}

@@ -1,0 +1,46 @@
+GenericEntity : "{4571D373817D63F2}Prefabs/Compositions/Misc/FreeRoamBuilding/SandbagLongHighPlastic_S_US_01.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  SCR_EditableEntityComponent "{5E507279283B09B5}" : "{8B8F72167C615EAA}Prefabs/Editor/Components/Compositions_SCR_EditableEntityComponent.ct" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-EditableEntity_Sandbag_01_long_high_plastic_Name"
+    m_Image "{1E4A1648505D075F}UI/Textures/EditorPreviews/Auto/Compositions/Misc/FreeRoamBuilding/E_SandbagLongHighPlastic_S_US_01.edds"
+    m_sFaction "RHS_USAF"
+    m_aAuthoredLabels {
+     108 1677929688
+    }
+    m_aAutoLabels {
+     1 121
+    }
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{64FD1A06DF85E30F}" {
+      m_BudgetType CAMPAIGN
+      m_Value 30
+     }
+    }
+    m_EntityChildrenBudgetCost {
+     SCR_EntityBudgetValue "{64FD1A06DF85E30A}" {
+      m_BudgetType PROPS
+      m_Value 1
+     }
+    }
+   }
+  }
+  SCR_EditorLinkComponent "{64FD1A06DF85E315}" {
+   m_aEntries {
+    SCR_EditorLinkEntry "{64FD1A06DF85E313}" {
+     m_Prefab "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et"
+     m_vPosition 0 0 0
+     m_vAngles 0 0 0
+     m_fScale 1
+    }
+   }
+  }
+ }
+ {
+  GenericEntity {
+   ID "5D72D01CB83706D7"
+   Flags 1048576
+  }
+ }
+}

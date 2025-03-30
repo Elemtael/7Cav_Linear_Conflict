@@ -1,0 +1,19 @@
+GenericEntity : "{6E9190BC2713551D}Prefabs/Compositions/Slotted/BuildableComposition_Base.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  SCR_CampaignBuildingCompositionComponent "{5E96A067C097D570}" {
+   m_AudioSourceConfigurationSpawn SCR_AudioSourceConfiguration "{5E96A067C355978C}" {
+    m_sSoundEventName "SOUND_BUILD_CONCRETE_BLOCK"
+   }
+  }
+  Hierarchy "{64FD1A07E9D97AE7}" {
+  }
+ }
+ coords 0 0 0
+ {
+  StaticModelEntity : "{C16C62041E2AAAB2}Prefabs/Structures/Military/Fortifications/Dragontooth_01/Dragontooth_01_V1.et" {
+   ID "64FD1A07E9D97AD7"
+   coords 0 0 0
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5CF65261B8DA3838}PrefabsEditable/Auto/Compositions/Slotted/SlotRoadMedium/E_Barricade_M_RHS_USAF_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

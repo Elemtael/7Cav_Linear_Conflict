@@ -18,7 +18,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 2946.001 90.617 4839.52
@@ -49,7 +49,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 8355.991 237.817 4765.673
@@ -80,7 +80,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 7545.375 6.253 6055.137
@@ -111,7 +111,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 7306.169 42.909 7652.432
@@ -142,7 +142,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 5493.17 1.095 8749.016
@@ -177,7 +177,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 5697.871 0.786 11142.059
@@ -208,7 +208,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 3924.418 8.079 9033.013
@@ -239,7 +239,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 3198.338 6.768 7140.297
@@ -270,7 +270,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 2112.23 1.336 6649.768
@@ -301,7 +301,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 2481.562 83.393 6091.053
@@ -333,7 +333,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 1883.111 71.079 5071.709
@@ -364,7 +364,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 3775.095 122.41 5412.004
@@ -395,7 +395,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 5652.349 40.368 4210.594
@@ -426,7 +426,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 6437.161 106.295 5938.728
@@ -457,7 +457,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 3323.721 8.967 3516.163
@@ -493,7 +493,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 6331.261 75.492 8452.521
@@ -528,7 +528,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 12042.441 26.868 1876.018
@@ -560,7 +560,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "US"
+    "faction affiliation" "RHS_USAF"
    }
   }
   coords 8599.161 276.562 1653.965
@@ -601,7 +601,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_fOperationalRadius 15
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "USSR"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   Flags 524291

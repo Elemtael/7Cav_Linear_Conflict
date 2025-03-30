@@ -24,9 +24,6 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
  "Max number of cached BTs" 100
  m_iActiveAILimit 1000
 }
-RadioManagerEntity {
- coords 2884.968 91.924 6293.253
-}
 PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
  coords 4926.701 34.279 10717.344
 }
@@ -51,6 +48,9 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
   }
   SCR_GroupsManagerComponent "{5706EC99934496F5}" {
    m_sDefaultGroupPrefab "{B09149860D02B824}Prefabs/Groups/PlayableGroup_9.et"
+  }
+  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
+   m_sConfigPath "{D611EA228CA44704}Configs/NameTags/NametagFriendlies_CAV.conf"
   }
   SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
    m_iKillFeedType FULL
@@ -89,6 +89,7 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
   }
  }
  coords 26.726 0 10.962
+ m_bAllowFactionChange 1
  m_iControlPointsThreshold 67
  m_iSuppliesReplenishThreshold 200
  m_iQuickSuppliesReplenishThreshold 40
@@ -98,17 +99,31 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
  m_iMinStartingSupplies 25
  m_iMaxStartingSupplies 175
  m_sBLUFORFactionKey "RHS_USAF"
+ m_sOPFORFactionKey "RHS_AFRF"
+ m_sINDFORFactionKey "RHS_AFRF"
  m_iSuicideRespawnDelay 60
+ {
+  SCR_EditorSettingsEntity {
+   ID "60DEAC2AD2AE44AD"
+   m_bIsUnlimitedEditorLegal 1
+  }
+ }
 }
 ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
  coords 20.291 0 5.837
 }
+RadioManagerEntity : "{B8E09FAB91C4ECCD}Prefabs/Radio/RadioManager.et" {
+ coords 2884.968 91.924 6293.253
+}
 SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
  coords 20.291 0 5.837
  Factions {
-  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
+  SCR_CampaignFaction "{50B30C3AF4BFD934}" : "{C3C8730223A0688E}Configs/Factions/RHS_RF_MSV_Campaign.conf" {
    m_bIsPlayable 0
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_aFriendlyFactionsIds + {
+    "FIA"
+   }
    m_aEntityCatalogs {
     SCR_EntityCatalogMultiList "{5C68A0E9BD5E5DD9}" {
      m_aEntityEntryList {
@@ -840,6 +855,74 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
     }
     SCR_EntityCatalogMultiList "{5C9E82F29B327997}" : "{C200F54EB67899D1}Configs/EntityCatalog/USMC/USMC_Vehicles.conf" {
      m_aMultiLists {
+      SCR_EntityCatalogMultiListEntry "{61835C01E90BB7D5}" {
+       m_aEntities {
+        SCR_EntityCatalogEntry "{61835C023A20447B}" {
+         m_sEntityPrefab "{0267EBB47B97F996}Prefabs/Vehicles/Wheeled/M151A2/M151A2_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0232DDB659}" {
+         m_sEntityPrefab "{CE4331FFD050DDEB}Prefabs/Vehicles/Wheeled/M151A2/M151A2_transport_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C025850E36B}" {
+         m_sEntityPrefab "{654C3BA4352E0A13}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C025A0875B2}" {
+         m_sEntityPrefab "{923F0A979CE79ACD}Prefabs/Vehicles/Wheeled/M998/M998_covered_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0248479D3A}" {
+         m_sEntityPrefab "{23FB589C8BF6EC6E}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0247A731AA}" {
+         m_sEntityPrefab "{8AB1F5735B769FDD}Prefabs/Vehicles/Wheeled/M998/M1025_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0241C12001}" {
+         m_sEntityPrefab "{E6A4511CC8D969AF}Prefabs/Vehicles/Wheeled/M998/M997_maxi_ambulance_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0243AEDD6C}" {
+         m_sEntityPrefab "{197F8DF92F4F5246}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0268919BDE}" {
+         m_sEntityPrefab "{D84693019596E7BA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C026B7EABDD}" {
+         m_sEntityPrefab "{AED4374383C00745}Prefabs/Vehicles/Wheeled/M923A1/M923A1_engineer_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C02653AD200}" {
+         m_sEntityPrefab "{D180534A18E68E7C}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0266A83C23}" {
+         m_sEntityPrefab "{171AFA590F918891}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C02617DA12A}" {
+         m_sEntityPrefab "{3FFC47B08499304C}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{61835C0263272D2B}" {
+         m_sEntityPrefab "{0083803786A72227}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repair_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{64F6D4B510DDC994}" {
+         m_sEntityPrefab "{582DF5BFB3C68573}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{64F6D4B519E281B0}" {
+         m_sEntityPrefab "{A4754DBC1974086F}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS_USAF_D.et"
+        }
+       }
+      }
+      SCR_EntityCatalogMultiListEntry "{61835C01E373CF53}" {
+       m_aEntities {
+        SCR_EntityCatalogEntry "{61835C021732E80B}" {
+         m_sEntityPrefab "{39BFD3BB636E917D}Prefabs/Vehicles/Helicopters/UH1H/UH1H_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{62D2F3D1EB0EA86A}" {
+         m_sEntityPrefab "{F560D3BFDDD551FA}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{64FD3DDCDA44E870}" {
+         m_sEntityPrefab "{AC80040AF9C13141}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HE_RHS_USAF.et"
+        }
+        SCR_EntityCatalogEntry "{64FD3DDCD5A0F7C6}" {
+         m_sEntityPrefab "{55C9FD304D8D58A9}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HEDP_RHS_USAF.et"
+        }
+       }
+      }
       SCR_EntityCatalogMultiListEntry "{60569780DE4EE17A}" {
        m_aEntities {
         SCR_EntityCatalogEntry "{605098A545E912FC}" {
@@ -927,6 +1010,9 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
    m_bShowInWelcomeScreenIfNonPlayable 0
    m_sFactionFlag "{50824EB9F2C215AB}UI/Textures/Flags/USSR-flag-base-3it.edds"
    m_FactionFlagMaterial "{B47B52D9DA68905D}Assets/Props/Fabric/Flags/Data/Flag_1_2_SovietArmy.emat"
+   m_aFriendlyFactionsIds {
+    "USSR" "RHS_AFRF"
+   }
    m_aEntityCatalogs {
     SCR_EntityCatalogMultiList "{5C68A0EABE8B7B2A}" {
      m_aEntityEntryList {

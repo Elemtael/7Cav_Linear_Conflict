@@ -147,7 +147,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5142.833 14.497 4002.722
@@ -158,7 +158,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4946.748 28.355 11978.736
@@ -175,7 +175,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3349.936 159.93 5765.304
@@ -186,7 +186,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3739.941 1.325 8529.064
@@ -197,7 +197,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4452.477 57.42 6188.285
@@ -208,7 +208,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5838.174 4.572 9795.071
@@ -219,7 +219,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4428.611 63.178 4963.92
@@ -230,7 +230,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3308.529 115.633 4394.993
@@ -241,7 +241,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5194.22 59.118 5386.105
@@ -252,7 +252,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4143.964 39.702 7758.786
@@ -263,7 +263,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7555.83 82.76 5501.325
@@ -274,7 +274,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2676.645 94.644 5383.607
@@ -285,7 +285,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4505.906 13.906 9476.052
@@ -296,7 +296,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2831.801 86.517 6329.271
@@ -307,7 +307,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7692.985 341.069 3085.811
@@ -318,7 +318,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8542.331 131.823 3372.785
@@ -360,7 +360,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9338.8 5.531 5052.15
@@ -389,7 +389,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10364.772 34.599 382.228
@@ -418,7 +418,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8489.271 153.321 3631.78
@@ -429,7 +429,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6786.58 91.303 5686.407
@@ -440,7 +440,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5222.412 78.112 5040.934
@@ -451,7 +451,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4827.597 83.837 4449.076
@@ -594,7 +594,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5222.964 38.34 11359.304
@@ -623,7 +623,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4869.353 111.135 8133.261
@@ -648,7 +648,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4923.497 36.131 9174.074
@@ -697,7 +697,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5345.922 20.687 9833.093
@@ -862,7 +862,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3774.062 117.124 5031.301
@@ -873,7 +873,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3437.566 119.17 4984.389
@@ -884,7 +884,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2863.056 90.535 4851.723
@@ -1027,7 +1027,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4638.024 160.41 6915.793
@@ -1038,7 +1038,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4751.175 160.966 7153.141
@@ -1049,7 +1049,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4787.128 167.715 6918.269
@@ -1060,7 +1060,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4849.315 167.194 6917.546
@@ -1071,7 +1071,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4879.692 170.979 7036.134
@@ -1098,7 +1098,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9339.411 49.83 1959.829
@@ -1116,7 +1116,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8583.354 125.142 3297.557
@@ -1138,7 +1138,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType SQUAD_RIFLE
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8109.663 223.074 4151.868
@@ -1185,7 +1185,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7939.604 12.297 1463.223
@@ -1573,7 +1573,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3825.904 3.843 7762.039
@@ -1827,7 +1827,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9990.338 2.333 1553.208
@@ -1838,7 +1838,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4924.528 28.775 11761.934
@@ -1850,7 +1850,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4919.885 40.206 11788.85
@@ -1861,7 +1861,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5302.581 38.232 11336.376
@@ -1872,7 +1872,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5227.516 37.862 11405.166
@@ -1883,7 +1883,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4413.375 1.687 11036.785
@@ -1894,7 +1894,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4525.343 14.451 10892.41
@@ -1905,7 +1905,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4561.065 15.874 10502.776
@@ -1916,7 +1916,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4520.853 18.748 9426.111
@@ -1927,7 +1927,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4371.523 8.742 9537.148
@@ -1938,7 +1938,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3944.165 15.656 8491.523
@@ -1949,7 +1949,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3828.346 12.062 8459.833
@@ -1960,7 +1960,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4180.213 42.594 7865.442
@@ -1971,7 +1971,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3907.267 75.378 6892.789
@@ -1982,7 +1982,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2248.821 17.95 7540.261
@@ -1993,7 +1993,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2154.638 19.577 7436.369
@@ -2004,7 +2004,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1075.05 2.75 6056.95
@@ -2015,7 +2015,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1198.117 34.921 5985.623
@@ -2026,7 +2026,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2572.805 96.203 5435.407
@@ -2037,7 +2037,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2894.79 86.919 6356.704
@@ -2048,7 +2048,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3513.266 182.006 5821.609
@@ -2059,7 +2059,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4935.746 36.515 9086.082
@@ -2070,7 +2070,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4944.562 42.551 8989.015
@@ -2081,7 +2081,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5256.946 21.402 9824.264
@@ -2092,7 +2092,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5306.694 19.337 9875.806
@@ -2103,7 +2103,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6339.924 5.509 9646.5
@@ -2114,7 +2114,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6401.622 10.408 9680.671
@@ -2125,7 +2125,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5732.693 30.08 10248.549
@@ -2136,7 +2136,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5434.226 45.291 10485.342
@@ -2147,7 +2147,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5409.632 43.269 10574.401
@@ -2158,7 +2158,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5227.861 39.869 10497.311
@@ -2169,7 +2169,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7410.924 2.664 9563.304
@@ -2180,7 +2180,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7727.853 13.656 8150.498
@@ -2191,7 +2191,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7667.571 12.866 8071.008
@@ -2202,7 +2202,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7409.269 9.687 6727.657
@@ -2213,7 +2213,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7591.039 80.499 5487.629
@@ -2224,7 +2224,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7535.924 81.806 5568.736
@@ -2235,7 +2235,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7029.382 117.957 6010.597
@@ -2246,7 +2246,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6839.05 82.465 8202.721
@@ -2257,7 +2257,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5510.813 75.304 7956.294
@@ -2268,7 +2268,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5516.458 68.709 8036.049
@@ -2279,7 +2279,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5758.389 221.984 7139.044
@@ -2290,7 +2290,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5768.363 214.236 7028.955
@@ -2301,7 +2301,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5980.022 217.3 7241.5
@@ -2312,7 +2312,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5853.235 235.812 7254.45
@@ -2323,7 +2323,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5640.45 91.687 5908.261
@@ -2334,7 +2334,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5534.414 95.541 6049.577
@@ -2345,7 +2345,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5294.314 61.678 5391.175
@@ -2356,7 +2356,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5265.889 64.211 5319.227
@@ -2367,7 +2367,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4949.216 13.415 3974.335
@@ -2378,7 +2378,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5156.849 14.163 3970.968
@@ -2389,7 +2389,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2496.414 10.406 4247.422
@@ -2400,7 +2400,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4466.956 63.189 5004.042
@@ -2411,7 +2411,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7455.575 137.308 4738.149
@@ -2422,7 +2422,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7540.668 142.119 4679.977
@@ -2433,7 +2433,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6504.964 87.246 5291.308
@@ -2444,7 +2444,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7533.665 166.844 4206.613
@@ -2455,7 +2455,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7533.313 207.139 4014.462
@@ -2466,7 +2466,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7967.586 249.597 4053.477
@@ -2477,7 +2477,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9333.924 4.143 5070.295
@@ -2488,7 +2488,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8929.261 234.341 4001.365
@@ -2499,7 +2499,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8873.739 204.98 3949.443
@@ -2510,7 +2510,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8783.12 196.754 3900.04
@@ -2521,7 +2521,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7680.854 340.665 3055.743
@@ -2532,7 +2532,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7714.835 341.17 3054.034
@@ -2543,7 +2543,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9422.346 213.497 2992.72
@@ -2554,7 +2554,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9921.422 295.697 2579.852
@@ -2565,7 +2565,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11690.442 7.936 2248.357
@@ -2576,7 +2576,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 12079.229 30.935 1846.975
@@ -2587,7 +2587,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11668.986 12.006 1446.578
@@ -2598,7 +2598,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11169.695 3.895 1615.81
@@ -2609,7 +2609,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10458.296 4.943 1607.749
@@ -2620,7 +2620,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10150.226 6.187 1618.585
@@ -2631,7 +2631,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10142.891 2.538 1482.01
@@ -2642,7 +2642,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9752.157 5.312 1500.015
@@ -2653,7 +2653,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9786.937 5.296 1400.378
@@ -2664,7 +2664,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9581.19 24.491 1568.736
@@ -2675,7 +2675,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8836.59 95.042 2690.098
@@ -2686,7 +2686,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8783.503 102.926 2874.272
@@ -2697,7 +2697,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9355.84 204.409 1159.613
@@ -2709,7 +2709,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9395.968 196.488 1169.113
@@ -2720,7 +2720,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9304.1 185.611 1112.803
@@ -2731,7 +2731,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9355.755 13.306 297.372
@@ -2742,7 +2742,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10371.498 34.603 386.805
@@ -2753,7 +2753,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7944.966 11.209 1435.395
@@ -2764,7 +2764,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8273.718 255.124 2441.787
@@ -2775,7 +2775,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8444.951 285.384 2340.346
@@ -2786,7 +2786,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8241.073 224.125 2180.931
@@ -2797,7 +2797,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6577.555 5.379 3115.761
@@ -2808,7 +2808,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10845.495 8.219 8750.513
@@ -2820,7 +2820,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10867.003 15.945 8610.535
@@ -2831,7 +2831,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10852.12 9.366 8654.921
@@ -2843,7 +2843,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10911.607 13.365 8542.248
@@ -2854,7 +2854,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10916.81 19.664 8839.137
@@ -2866,7 +2866,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11372.74 68.705 11204.41
@@ -2877,7 +2877,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11141.215 33.973 11599.64
@@ -2888,7 +2888,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10946.516 25.242 11685.998
@@ -2899,7 +2899,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10894.433 23.855 11773.313
@@ -2910,7 +2910,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10975.298 24.146 11816.682
@@ -2921,7 +2921,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10637.24 2.343 11838.957
@@ -2932,7 +2932,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11058.814 22.331 12007.972
@@ -2943,7 +2943,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11340.978 17.501 11853.614
@@ -2954,7 +2954,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11494.531 2.453 10918.919
@@ -2966,7 +2966,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3074.77 6.156 2119.104
@@ -2979,7 +2979,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2894.732 7.036 2199.537
@@ -2992,7 +2992,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2827.947 9.286 1797.473
@@ -3005,7 +3005,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3142.662 3.231 2151.488
@@ -3018,7 +3018,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2979.824 10.295 1710.556
@@ -3031,7 +3031,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2717.139 5.527 2129.961
@@ -3042,7 +3042,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6094.882 4.556 3364.964
@@ -3053,7 +3053,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3482.271 133.53 4450.488
@@ -3064,7 +3064,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3252.996 110.684 4352.14
@@ -3075,7 +3075,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 986.314 26.36 11354.043
@@ -3088,7 +3088,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 4
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1106.91 42.696 11645.812
@@ -3100,7 +3100,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 944.652 35.208 11622.669
@@ -3111,7 +3111,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1382.159 19.373 11277.992
@@ -3123,7 +3123,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1379.452 39.63 11438.459
@@ -3135,7 +3135,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 3
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1391.895 2.703 11618.132
@@ -3147,7 +3147,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1551.349 20.015 11215.109
@@ -3159,7 +3159,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 4
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1093.666 41.724 11409.981
@@ -3170,7 +3170,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9582.354 11.875 5348.252
@@ -3181,7 +3181,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6038.96 2.978 10032.474
@@ -3192,7 +3192,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6125.814 2.288 10278.566
@@ -3203,7 +3203,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9276.796 2.77 5799.442
@@ -3214,7 +3214,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5576.632 8.207 12109.033
@@ -3225,7 +3225,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11130.031 35.643 1843.552
@@ -3236,7 +3236,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11085.844 24.125 1805.375
@@ -3247,7 +3247,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11131.071 22.186 1774.404
@@ -3258,7 +3258,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11170.183 24.469 1799.407
@@ -3269,7 +3269,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4667.175 22.972 12284.221
@@ -3281,7 +3281,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5583.957 28.435 9843.159
@@ -3292,7 +3292,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5611.755 26.898 9869.836
@@ -3303,7 +3303,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4938.16 36.291 11833.416
@@ -3314,7 +3314,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4958.967 28.374 11872.104
@@ -3325,7 +3325,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5028.433 27.044 11843.894
@@ -3336,7 +3336,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5012.222 29.864 11642.223
@@ -3347,7 +3347,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5260.535 38.742 11345.155
@@ -3358,7 +3358,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5388.486 42.607 10983.729
@@ -3369,7 +3369,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5059.557 27.82 10864.435
@@ -3380,7 +3380,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4863.195 29.456 10600.015
@@ -3391,7 +3391,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5373.246 46.814 10480.613
@@ -3402,7 +3402,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5352.424 41.713 10422.962
@@ -3413,7 +3413,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5786.935 28.671 10160.967
@@ -3424,7 +3424,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4594.512 18.424 10740.601
@@ -3435,7 +3435,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4606.282 18.676 10660.634
@@ -3446,7 +3446,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4403.518 9.963 10748.546
@@ -3457,7 +3457,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4450.463 12.869 10734.79
@@ -3468,7 +3468,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4406.864 12.22 10664.645
@@ -3479,7 +3479,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4583.803 19.33 10934.346
@@ -3490,7 +3490,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4615.106 15.699 10493.14
@@ -3501,7 +3501,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4498.002 19.813 10465.13
@@ -3512,7 +3512,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4523.1 20.448 10378.708
@@ -3523,7 +3523,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4557.139 16.687 10552.312
@@ -3534,7 +3534,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4165.502 15.873 10595.063
@@ -3545,7 +3545,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4209.871 38.164 10292.3
@@ -3556,7 +3556,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4492.544 18.899 10193.214
@@ -3567,7 +3567,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4492.702 16.03 10239.78
@@ -3578,7 +3578,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4446.588 15.093 9596.274
@@ -3589,7 +3589,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4541.665 18.285 9558.919
@@ -3600,7 +3600,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4599.522 19.7 9501.711
@@ -3611,7 +3611,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5021.277 25.561 10151.655
@@ -3622,7 +3622,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4830.042 36.649 9048.631
@@ -3633,7 +3633,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4898.059 35.676 9133.182
@@ -3644,7 +3644,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4980.563 40.515 9029.149
@@ -3655,7 +3655,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5246.344 22.689 9857.572
@@ -3666,7 +3666,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5323.332 20.027 9785.759
@@ -3677,7 +3677,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5377.315 10.531 8708.339
@@ -3688,7 +3688,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4194.281 21.584 9077.018
@@ -3699,7 +3699,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4022.481 35.892 8549.793
@@ -3710,7 +3710,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3888.243 15.306 8490.725
@@ -3721,7 +3721,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3826.853 10.582 7641.508
@@ -3732,7 +3732,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4248.514 73.504 7919.882
@@ -3743,7 +3743,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4196.708 41.558 7818.075
@@ -3754,7 +3754,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4087.364 36.74 7749.666
@@ -3765,7 +3765,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4056.118 32.108 7807.63
@@ -3776,7 +3776,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4199.883 49.507 7621.173
@@ -3787,7 +3787,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6998.023 81.228 8243.396
@@ -3798,7 +3798,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6936.935 86.327 8305.347
@@ -3809,7 +3809,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6765.736 94.424 8171.421
@@ -3820,7 +3820,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7539.415 3.149 9110.64
@@ -3831,7 +3831,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7309.916 2.159 9341.803
@@ -3842,7 +3842,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7728.069 3.483 9391.771
@@ -3853,7 +3853,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7806.312 17.066 8168.696
@@ -3864,7 +3864,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7615.614 26.685 8306.951
@@ -3875,7 +3875,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7434.166 45.022 8293.307
@@ -3886,7 +3886,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7515.642 6.17 6750.871
@@ -3897,7 +3897,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7528.243 2.469 6680.238
@@ -3908,7 +3908,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7407.72 7.488 6637.655
@@ -3919,7 +3919,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7185.438 47.926 6945.567
@@ -3930,7 +3930,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7252.852 47.345 7658.648
@@ -3941,7 +3941,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7233.742 47.507 7691.181
@@ -3952,7 +3952,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6534.688 155.051 7125.329
@@ -3963,7 +3963,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6593.912 153.817 7168.236
@@ -3974,7 +3974,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6236.17 179.827 7481.03
@@ -3985,7 +3985,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5701.861 218.783 7255.565
@@ -3996,7 +3996,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5826.656 231.073 7325.036
@@ -4007,7 +4007,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5897.909 225.537 7161.554
@@ -4018,7 +4018,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5721.374 215.903 7033.747
@@ -4029,7 +4029,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5851.045 217.664 7088.483
@@ -4040,7 +4040,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5806.018 212.745 7008.517
@@ -4051,7 +4051,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5095.321 176.897 6988.677
@@ -4062,7 +4062,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5228.242 171.562 7058.24
@@ -4073,7 +4073,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5155.491 174.031 7102.431
@@ -4084,7 +4084,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4541.038 156.095 6873.124
@@ -4095,7 +4095,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4600.219 150.732 7070.074
@@ -4106,7 +4106,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4785.412 170.089 6993.732
@@ -4118,7 +4118,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4711.008 168.111 6926.567
@@ -4129,7 +4129,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5103.002 183.807 7046.895
@@ -4140,7 +4140,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2312.223 11.122 7666.608
@@ -4151,7 +4151,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2288.01 18.437 7513.977
@@ -4162,7 +4162,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2282.953 22.257 7456.705
@@ -4173,7 +4173,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2604.214 46.314 7291.304
@@ -4184,7 +4184,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2490.578 60.958 7227.198
@@ -4195,7 +4195,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2395.262 47.981 6883.291
@@ -4206,7 +4206,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1432.134 62.247 6155.222
@@ -4217,7 +4217,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1167.326 33.932 6309.16
@@ -4228,7 +4228,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1199.866 30.064 6103.782
@@ -4239,7 +4239,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1273.783 37.441 6037.205
@@ -4251,7 +4251,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1276.865 42.927 5905.604
@@ -4262,7 +4262,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1079.026 10.29 6013.149
@@ -4273,7 +4273,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1074.442 2.812 6151.519
@@ -4284,7 +4284,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1012.349 2.687 6029.535
@@ -4295,7 +4295,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 896.024 2.723 6141.721
@@ -4306,7 +4306,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1664.826 71.469 5754.313
@@ -4318,7 +4318,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1519.452 47.894 5564.488
@@ -4329,7 +4329,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2261.602 126.394 5817.183
@@ -4340,7 +4340,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2519.519 107.891 5546.402
@@ -4351,7 +4351,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2612.004 89.498 5326.949
@@ -4362,7 +4362,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2660.767 91.677 5328.758
@@ -4373,7 +4373,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2604.064 101.625 5491.354
@@ -4384,7 +4384,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2662.681 86.512 6060.118
@@ -4395,7 +4395,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2958.007 108.688 6133.218
@@ -4406,7 +4406,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3111.436 104.911 6210.906
@@ -4417,7 +4417,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3509.4 100.784 6437.375
@@ -4428,7 +4428,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3726.504 79.88 6629.579
@@ -4439,7 +4439,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2392.98 10.18 4246.904
@@ -4450,7 +4450,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2514.282 10.384 4213.759
@@ -4461,7 +4461,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2461.152 10.49 4257.49
@@ -4472,7 +4472,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2643.364 4.611 4123.861
@@ -4483,7 +4483,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3390.652 127.693 4502.781
@@ -4494,7 +4494,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3510.488 136.427 4481.061
@@ -4505,7 +4505,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3501.089 134.368 4431.073
@@ -4516,7 +4516,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3195.332 104.625 4323.376
@@ -4527,7 +4527,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3186.968 108.241 4501.644
@@ -4538,7 +4538,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3357.888 124.223 4531.868
@@ -4549,7 +4549,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3036.535 121.762 5488.334
@@ -4560,7 +4560,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3315.284 117.607 5133.49
@@ -4571,7 +4571,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3283.333 114.452 5153.923
@@ -4582,7 +4582,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3801.046 117.572 5029.121
@@ -4593,7 +4593,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3633.074 107.386 4848.023
@@ -4604,7 +4604,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3282.141 154.501 5780.195
@@ -4615,7 +4615,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3550.144 159.056 5651.222
@@ -4626,7 +4626,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3640.189 152.967 5950.275
@@ -4637,7 +4637,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3472.051 168.807 5908.43
@@ -4648,7 +4648,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3446.151 173.677 5766.094
@@ -4659,7 +4659,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3899.645 102.131 6325.255
@@ -4670,7 +4670,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4303.254 58.666 5839.828
@@ -4681,7 +4681,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4420.32 54.979 6152.047
@@ -4692,7 +4692,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4612.361 66.536 6338.209
@@ -4703,7 +4703,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4591.024 56.376 6243.72
@@ -4714,7 +4714,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4663.904 56.478 6220.985
@@ -4725,7 +4725,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4690.926 59.032 6249.868
@@ -4736,7 +4736,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5233.782 75.287 6317.435
@@ -4747,7 +4747,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5353.536 81.065 6294.574
@@ -4758,7 +4758,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5653.395 133.449 6590.803
@@ -4769,7 +4769,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5707.663 92.275 5907.346
@@ -4780,7 +4780,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5583.621 89.007 5846.643
@@ -4791,7 +4791,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5506.564 93.098 6005.158
@@ -4802,7 +4802,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5567.698 96.999 6100.709
@@ -4813,7 +4813,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5644.195 113.648 6110.402
@@ -4824,7 +4824,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6127.521 83.72 5755.455
@@ -4835,7 +4835,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6260.813 164.25 6480.371
@@ -4846,7 +4846,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6527.602 143.759 6950.76
@@ -4857,7 +4857,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6637.929 136.313 6987.24
@@ -4868,7 +4868,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6721.663 147.913 7131.27
@@ -4879,7 +4879,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6745.634 145.972 7112.226
@@ -4890,7 +4890,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6582.778 151.995 7116.568
@@ -4901,7 +4901,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5579.764 84.459 8009.283
@@ -4912,7 +4912,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5409.311 45.177 8123.254
@@ -4923,7 +4923,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5415.197 76.407 7901.809
@@ -4934,7 +4934,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5606.213 69.731 8157.727
@@ -4945,7 +4945,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7052.807 94.059 8411.771
@@ -4956,7 +4956,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6679.252 151.087 7834.825
@@ -4967,7 +4967,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7033.337 93.889 7121.103
@@ -4978,7 +4978,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6869.349 122.906 6566.326
@@ -4989,7 +4989,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6885.17 123.714 6662.678
@@ -5000,7 +5000,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6631.434 109.624 5878.603
@@ -5011,7 +5011,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6640.588 116.189 5967.081
@@ -5022,7 +5022,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7118.523 114.96 5955.867
@@ -5033,7 +5033,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6959.377 117.632 6005.038
@@ -5044,7 +5044,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7089.026 119.858 6128.405
@@ -5055,7 +5055,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7143.965 118.413 6067.796
@@ -5066,7 +5066,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7092.499 117.693 6003.654
@@ -5077,7 +5077,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7798.354 1.823 5840.611
@@ -5088,7 +5088,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7517.106 83.354 5492.407
@@ -5099,7 +5099,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7593.912 80.094 5592.346
@@ -5110,7 +5110,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7646.417 77.996 5504.949
@@ -5121,7 +5121,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7585.473 85.693 5381.438
@@ -5132,7 +5132,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7619.024 124.2 5019.649
@@ -5143,7 +5143,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7825.636 144.249 4747.239
@@ -5154,7 +5154,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7987.445 174.439 4501.409
@@ -5165,7 +5165,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8254.591 221.124 4377.055
@@ -5176,7 +5176,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7350.287 122.344 5179.139
@@ -5187,7 +5187,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6729.44 88.684 5649.645
@@ -5198,7 +5198,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7058.746 115.463 5344.117
@@ -5210,7 +5210,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6214.63 108.427 5102.607
@@ -5221,7 +5221,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6106.804 117.291 5086.987
@@ -5232,7 +5232,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6320.352 105.418 5300.831
@@ -5243,7 +5243,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6273.685 116.361 5304.785
@@ -5254,7 +5254,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6165.624 128.975 5253.295
@@ -5265,7 +5265,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6798.276 70.824 4848.595
@@ -5276,7 +5276,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6784.336 69.227 4833.848
@@ -5287,7 +5287,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7545.773 135.78 4773.07
@@ -5298,7 +5298,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7058.72 79.637 3384.838
@@ -5309,7 +5309,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7051.181 79.714 3382.653
@@ -5320,7 +5320,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7022.502 66.144 3496.029
@@ -5331,7 +5331,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6769.84 33.84 3086.485
@@ -5342,7 +5342,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6703.821 12.118 3041.469
@@ -5353,7 +5353,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6599.369 7.428 2374.446
@@ -5364,7 +5364,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7257.997 146.23 2617.563
@@ -5375,7 +5375,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7322.332 139.005 2496.877
@@ -5386,7 +5386,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7220.488 137.484 2398.032
@@ -5397,7 +5397,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7145.393 140.946 2447.329
@@ -5408,7 +5408,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7070.821 156.822 2068.35
@@ -5419,7 +5419,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7253.392 136.593 2203.347
@@ -5430,7 +5430,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7135.461 140.148 2331.274
@@ -5441,7 +5441,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7463.454 128.415 2240.435
@@ -5452,7 +5452,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7636.989 86.308 1821.826
@@ -5463,7 +5463,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7658.628 86.735 1807.477
@@ -5474,7 +5474,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7953.638 1.077 1379.076
@@ -5485,7 +5485,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7812.669 21.581 1538.513
@@ -5496,7 +5496,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7902.178 16.904 1504.877
@@ -5507,7 +5507,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7766.468 176.139 2326.681
@@ -5518,7 +5518,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7406.6 162.528 4303.116
@@ -5529,7 +5529,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7467.244 172.085 4265.621
@@ -5540,7 +5540,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7602.518 166.714 4297.602
@@ -5551,7 +5551,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7838.476 254.531 4034.021
@@ -5562,7 +5562,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7438.028 180.048 4090.812
@@ -5573,7 +5573,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8176.471 219.158 4120.054
@@ -5584,7 +5584,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8196.564 218.924 4125.484
@@ -5595,7 +5595,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8496.067 177.583 3828.973
@@ -5606,7 +5606,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8333.433 154.28 3428.449
@@ -5617,7 +5617,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8448.879 133.404 3367.868
@@ -5628,7 +5628,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7709.807 326.738 3225.539
@@ -5639,7 +5639,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7663.83 340.326 3052.589
@@ -5650,7 +5650,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7774.849 339.489 3056.51
@@ -5661,7 +5661,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8252.563 307.642 2830.561
@@ -5672,7 +5672,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8261.702 256.686 2429.465
@@ -5683,7 +5683,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8444.573 285.49 2331.185
@@ -5694,7 +5694,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8094.79 235.364 2249.728
@@ -5705,7 +5705,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7625.821 250.2 3799.486
@@ -5716,7 +5716,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9246.099 201.309 1162.658
@@ -5727,7 +5727,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9289.362 196.697 1226.219
@@ -5738,7 +5738,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9225.892 85.756 1559.208
@@ -5749,7 +5749,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8403.782 12.968 795.862
@@ -5760,7 +5760,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9290.302 14.689 314.28
@@ -5771,7 +5771,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9338.988 17.039 369.429
@@ -5782,7 +5782,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9424.551 27.438 339.95
@@ -5793,7 +5793,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9315.488 12.151 397.594
@@ -5804,7 +5804,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9361.819 3.166 239.931
@@ -5815,7 +5815,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10225.844 31.589 300.899
@@ -5826,7 +5826,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10380.086 31.652 351.564
@@ -5837,7 +5837,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10283.382 44.409 387.5
@@ -5848,7 +5848,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10300.887 46.429 472.623
@@ -5859,7 +5859,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9491.928 164.39 980.196
@@ -5870,7 +5870,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9857.021 31.12 1075.659
@@ -5881,7 +5881,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9655.463 25.117 1387.627
@@ -5892,7 +5892,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9617.895 22.833 1662.672
@@ -5903,7 +5903,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9689.702 21.377 1611.174
@@ -5914,7 +5914,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9718.188 27.885 1720.74
@@ -5925,7 +5925,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9724.085 22.151 1708.909
@@ -5936,7 +5936,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9666.432 21.161 1707.728
@@ -5947,7 +5947,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9840.127 7.656 1584.718
@@ -5958,7 +5958,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9779.859 15.256 1596.078
@@ -5969,7 +5969,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10005.323 9.984 1555.63
@@ -5980,7 +5980,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10192.225 2.687 1546.076
@@ -5991,7 +5991,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10124.28 2.509 1388.117
@@ -6002,7 +6002,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10283.361 6.803 1555.362
@@ -6013,7 +6013,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9422.527 44.926 1625.149
@@ -6024,7 +6024,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10798.599 9.607 1537.077
@@ -6035,7 +6035,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11206.767 12.233 1659.82
@@ -6046,7 +6046,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11125.343 19.622 1731.108
@@ -6057,7 +6057,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11090.356 31.055 1841.17
@@ -6068,7 +6068,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10388.095 147.166 2097.363
@@ -6079,7 +6079,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10572.99 195.044 2448.548
@@ -6090,7 +6090,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10646.742 172.723 2399.489
@@ -6101,7 +6101,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10678.063 206.042 2454.218
@@ -6112,7 +6112,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10517.799 193.195 2413.023
@@ -6123,7 +6123,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10732.027 244.464 2529.951
@@ -6135,7 +6135,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10095.325 312.823 2633.477
@@ -6147,7 +6147,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9953.359 316.076 2266.294
@@ -6158,7 +6158,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9929.012 300.848 2602.067
@@ -6169,7 +6169,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9986.395 310.232 2588.328
@@ -6180,7 +6180,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9907.071 296.812 2611.638
@@ -6191,7 +6191,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9878.396 292.258 2609.089
@@ -6202,7 +6202,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9857.721 288.981 2543.543
@@ -6213,7 +6213,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11529.914 2.344 2431.219
@@ -6225,7 +6225,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11740.373 18.831 2309.323
@@ -6236,7 +6236,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11781.595 20.306 2263.992
@@ -6247,7 +6247,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11732.346 5.963 2085.573
@@ -6258,7 +6258,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11729.558 8.323 2122.017
@@ -6269,7 +6269,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11702.459 8.594 2225.048
@@ -6280,7 +6280,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11624.661 0.471 2217.059
@@ -6291,7 +6291,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11247.554 17.142 2743.335
@@ -6302,7 +6302,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10986.804 13.345 2899.128
@@ -6313,7 +6313,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10693.505 30.319 2940.006
@@ -6324,7 +6324,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10596.449 72.07 2880.424
@@ -6335,7 +6335,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10282.012 170.809 2892.755
@@ -6346,7 +6346,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9615.359 3.359 5593.458
@@ -6358,7 +6358,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9572.6 11.136 5339.305
@@ -6369,7 +6369,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9488.792 43.058 4978.184
@@ -6380,7 +6380,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9138.224 33.633 5008.126
@@ -6391,7 +6391,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9137.011 80.515 4819.359
@@ -6402,7 +6402,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9358.463 4.733 5085.64
@@ -6413,7 +6413,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9306.813 7.619 5047.449
@@ -6424,7 +6424,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9325.846 244.216 3282.122
@@ -6435,7 +6435,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9546.538 236.455 2792.253
@@ -6446,7 +6446,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8807.301 139.148 3341.627
@@ -6457,7 +6457,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8916.781 96.195 2801.657
@@ -6468,7 +6468,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9032.233 124.535 2761.341
@@ -6479,7 +6479,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8757.522 104.422 2632.935
@@ -6490,7 +6490,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8637.379 124.451 2722.704
@@ -6501,7 +6501,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9104.476 79.243 2318.027
@@ -6512,7 +6512,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8987.752 82.929 2152.406
@@ -6523,7 +6523,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9276.815 61.725 2114.787
@@ -6534,7 +6534,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9354.68 56.735 2027.018
@@ -6545,7 +6545,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9244.979 56.53 2032.222
@@ -6556,7 +6556,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9244.41 57.079 1925.394
@@ -6567,7 +6567,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9418 45.216 1618.158
@@ -6578,7 +6578,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9681.116 9.045 5435.215
@@ -6589,7 +6589,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9586.886 13.024 5415.177
@@ -6600,7 +6600,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9684.065 18.359 5305.772
@@ -6611,7 +6611,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9626.546 22.403 5298.407
@@ -6622,7 +6622,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9685.249 6.809 5448.777
@@ -6633,7 +6633,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9707.25 14.446 5221.044
@@ -6644,7 +6644,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11807.027 3.143 1374.871
@@ -6655,7 +6655,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11705.461 6.295 1424.9
@@ -6666,7 +6666,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11615.355 8.646 1425.567
@@ -6677,7 +6677,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11642.844 12.481 1524.697
@@ -6688,7 +6688,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8384.109 2.747 825.382
@@ -6699,7 +6699,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8379.055 12.485 775.1
@@ -6710,7 +6710,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8422.039 12.671 790.453
@@ -6721,7 +6721,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8459.125 2.191 847.811
@@ -6732,7 +6732,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8602.53 49.774 747.714
@@ -6743,7 +6743,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8467.501 13.939 919.615
@@ -6754,7 +6754,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5798.461 7.969 9734.354
@@ -6765,7 +6765,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5895.861 4.568 9728.854
@@ -6776,7 +6776,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5803.714 16.523 9788.498
@@ -6787,7 +6787,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5709.325 12.874 9603.14
@@ -6798,7 +6798,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4515.717 154.19 6802.917
@@ -6811,7 +6811,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_fAILimitThreshold 0.95
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7098.675 118.545 6007.515
@@ -6837,7 +6837,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9535.623 211.523 3009.083
@@ -6848,7 +6848,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 9479.211 211.669 2922.25
@@ -6859,7 +6859,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4999.865 2.187 3857.14
@@ -6870,7 +6870,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5004.643 17.852 4037.412
@@ -6881,7 +6881,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5291.392 65.274 5286.635
@@ -6892,7 +6892,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6087.387 6.647 10159.732
@@ -6904,7 +6904,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5952.555 21.366 10147.045
@@ -6916,7 +6916,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11364.231 62 11241.222
@@ -6928,7 +6928,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6389.641 3.123 9599.926
@@ -6939,7 +6939,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 6252.966 11.628 9752.121
@@ -6951,7 +6951,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7448.194 138.95 4695.794
@@ -6963,7 +6963,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4415.99 65.321 5034.568
@@ -6974,7 +6974,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8246.703 221.588 2145.156
@@ -6985,7 +6985,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8774.766 200.49 3989.741
@@ -6996,7 +6996,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 8868.897 205.047 3891.322
@@ -7007,7 +7007,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 7504.329 2.5 9468.352
@@ -7018,7 +7018,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10770.123 29.914 2862.758
@@ -7029,7 +7029,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10688.132 110.397 2751.254
@@ -7041,7 +7041,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3886.678 69.556 6933.161
@@ -7052,7 +7052,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3786.827 59.78 7019.194
@@ -7063,7 +7063,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 3795.619 63.88 6952.495
@@ -7075,7 +7075,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2835.773 81.971 6420.191
@@ -7086,7 +7086,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 2917.551 87.564 6375.665
@@ -7097,7 +7097,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4928.358 25.517 10003.365
@@ -7108,7 +7108,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 5023.841 26.484 9970.443
@@ -7119,7 +7119,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4764.073 53.6 5832.227
@@ -7131,7 +7131,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 4916.556 53.831 5871.496
@@ -7143,7 +7143,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10906.99 21.136 8767.125
@@ -7155,7 +7155,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10957.354 24.38 8688.442
@@ -7167,7 +7167,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10939.014 4.753 8493.742
@@ -7179,7 +7179,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11007.187 7.676 8629.97
@@ -7191,7 +7191,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10985.413 6.32 8811.277
@@ -7203,7 +7203,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11364.188 37.205 11022.204
@@ -7215,7 +7215,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11261.464 56.718 11199.063
@@ -7227,7 +7227,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 11465.601 62.326 11248.064
@@ -7239,7 +7239,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 10556.825 20.264 11943.086
@@ -7252,7 +7252,7 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iGroupMultiplier 5
    }
    SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "FIA"
+    "faction affiliation" "RHS_AFRF"
    }
   }
   coords 1512.475 21.275 11261.979

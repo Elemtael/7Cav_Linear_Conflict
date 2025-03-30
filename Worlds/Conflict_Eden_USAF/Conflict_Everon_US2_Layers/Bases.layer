@@ -25,6 +25,11 @@ GenericEntity : "{0A36F69A7D518F10}Prefabs/Compositions/Locations/Eden/Base_Mili
   }
   SCR_SpawnPoint {
    ID "5E6ACA2F09C2D12F"
+   components {
+    SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+     "faction affiliation" "RHS_AFRF"
+    }
+   }
    Flags 1048579
   }
  }
@@ -2987,7 +2992,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
       }
      }
      coords 34.076 -0.368 63.226
-     angleX 0
      angleY -64.748
      angleZ 1.169
      {
@@ -6485,6 +6489,11 @@ GenericEntity : "{1A7FB3493A1B029F}Prefabs/Compositions/Locations/Eden/Base_Levi
     }
     SCR_SpawnPoint {
      ID "5E6ACA2FF8E39F2B"
+     components {
+      SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+       "faction affiliation" "RHS_AFRF"
+      }
+     }
      Flags 1048579
     }
    }
@@ -6548,6 +6557,11 @@ GenericEntity : "{1CF4014D7086BE9F}Prefabs/Compositions/Locations/Eden/Base_Airp
     }
     SCR_SpawnPoint {
      ID "5E6ACA2FF8E39F2B"
+     components {
+      SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+       "faction affiliation" "RHS_AFRF"
+      }
+     }
      Flags 1048579
     }
    }
@@ -6932,7 +6946,7 @@ $grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRel
        m_eGroupType FIRETEAM
       }
       SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-       "faction affiliation" "FIA"
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 30.951 -16.802 -0.681
@@ -7329,6 +7343,11 @@ GenericEntity : "{A9F3C4994839F7A4}Prefabs/Compositions/Locations/Eden/Base_StPi
     }
     SCR_SpawnPoint {
      ID "5E6ACA2FF8E39F2B"
+     components {
+      SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+       "faction affiliation" "RHS_AFRF"
+      }
+     }
      Flags 1048579
     }
    }
@@ -7379,6 +7398,11 @@ GenericEntity : "{D3BED8377828FFCC}Prefabs/Compositions/Locations/Eden/Base_Powe
     }
     SCR_SpawnPoint {
      ID "5E6ACA2FF01AEC42"
+     components {
+      SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+       "faction affiliation" "RHS_AFRF"
+      }
+     }
      Flags 1048579
     }
    }
@@ -7455,6 +7479,11 @@ GenericEntity : "{FB04C4D5947808F1}Prefabs/Compositions/Locations/Eden/Base_Mont
   }
   SCR_SpawnPoint {
    ID "5E6B01A974EBE91B"
+   components {
+    SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {
+     "faction affiliation" "RHS_AFRF"
+    }
+   }
    Flags 1048579
   }
  }

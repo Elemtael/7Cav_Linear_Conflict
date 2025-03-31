@@ -17,16 +17,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 2946.001 90.617 4839.52
   angleY -9.064
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -48,16 +62,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 8355.991 237.817 4765.673
   angleY 95.846
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -79,16 +107,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 7545.375 6.253 6055.137
   angleY -106.699
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -110,16 +152,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 7306.169 42.909 7652.432
   angleY -12.215
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -141,20 +197,31 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 5493.17 1.095 8749.016
   angleY -169.82
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords 0 0 0
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -176,16 +243,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 5697.871 0.786 11142.059
   angleY -106.828
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -207,16 +288,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 3924.418 8.079 9033.013
   angleY -106.49
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -238,16 +333,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 3198.338 6.768 7140.297
   angleY 62.186
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -269,16 +378,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 2112.23 1.336 6649.768
   angleY -106.329
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -300,9 +423,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 2481.562 83.393 6091.053
   angleY 12.361
@@ -310,7 +430,24 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -332,16 +469,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 1883.111 71.079 5071.709
   angleY 9.453
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -363,16 +514,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 3775.095 122.41 5412.004
   angleY 1.897
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -394,16 +559,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 5652.349 40.368 4210.594
   angleY 157.964
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -425,16 +604,30 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 6437.161 106.295 5938.728
   angleY -107.257
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -456,9 +649,6 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 3323.721 8.967 3516.163
   angleX -1.395
@@ -466,11 +656,25 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords 0 0 0
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -492,20 +696,31 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 6331.261 75.492 8452.521
   angleY 143.861
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords 0 0.001 0
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -527,17 +742,31 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 12042.441 26.868 1876.018
   angleY -151.09
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
     coords -0.001 0.364 12
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -559,17 +788,31 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
-   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "RHS_USAF"
-   }
   }
   coords 8599.161 276.562 1653.965
   angleY -151.09
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
     coords -0.001 0.377 11.999
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    m_sFaction "RHS_AFRF"
    }
   }
  }
@@ -600,6 +843,14 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_iSuppliesMax 3000
     m_fOperationalRadius 15
    }
+   SCR_EditableSystemComponent "{5B0AB14FBD96A524}" {
+    m_UIInfo SCR_EditableDescriptorUIInfo "{5B0AB14FA66FFA19}" {
+     m_sFaction "RHS_AFRF"
+     m_aAutoLabels {
+      1653989487
+     }
+    }
+   }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
     "faction affiliation" "RHS_AFRF"
    }
@@ -610,12 +861,26 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
     Flags 2097155
     coords 8.839 0.008 0.308
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    components {
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
+    }
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
     coords 0 0.011 0
+    m_sFaction "RHS_AFRF"
    }
    $grp SCR_DestructibleBuildingEntity : "{0BDA77618F7586C5}PrefabLibrary/Infrastructure/Naval/PierConcrete_01_flat.et" {
     {

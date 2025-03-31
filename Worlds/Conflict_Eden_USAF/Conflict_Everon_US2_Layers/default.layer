@@ -48,6 +48,8 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
   }
   SCR_GroupsManagerComponent "{5706EC99934496F5}" {
    m_sDefaultGroupPrefab "{B09149860D02B824}Prefabs/Groups/PlayableGroup_9.et"
+   m_iPlayableGroupFrequencyMin 10000
+   m_iPlayableGroupFrequencyMax 99000
   }
   SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
    m_sConfigPath "{D611EA228CA44704}Configs/NameTags/NametagFriendlies_CAV.conf"
@@ -125,6 +127,24 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
     "FIA"
    }
    m_aEntityCatalogs {
+    SCR_EntityCatalogMultiList "{5D4A87E82561D86F}" {
+     m_aEntityEntryList {
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBE1}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBE6}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBDB}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBDA}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBDF}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBDE}" {
+      }
+      SCR_EntityCatalogEntry "{5D4A87E8085EFBDD}" {
+      }
+     }
+    }
     SCR_EntityCatalogMultiList "{5C68A0E9BD5E5DD9}" {
      m_aEntityEntryList {
       SCR_EntityCatalogEntry "{5C548ABBCDDD71F8}" {
@@ -133,6 +153,7 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
      }
     }
    }
+   m_BaseBuildingHQ "{2721FCDD3113B757}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Headquarters_S_RHS_AFRF_01.et"
   }
   SCR_CampaignFaction "{50B30C3ADB052C80}" {
    FactionKey "RHS_USAF"

@@ -23,6 +23,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords 0.263 0.872 13.362
     angleY -177.278
@@ -71,6 +74,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords -9.665 2.123 5.692
     angleY 72.088
@@ -114,6 +120,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords -4.626 -0.179 -9.066
@@ -165,6 +174,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords -2.516 0.104 15.124
     angleY 175.428
@@ -211,6 +223,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords 10.981 0 5.959
     angleY -97.812
@@ -255,6 +270,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords -12.978 0 18.655
     angleY 142.193
@@ -298,6 +316,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords 6.792 0.544 -11.967
@@ -344,6 +365,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords 0.357 0 16.816
@@ -397,6 +421,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords 6.792 -0.341 -11.967
     angleY -34.364
@@ -440,6 +467,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords 9.258 -0.071 -10.281
@@ -485,6 +515,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords 6.239 1.187 -12.346
     angleY -34.364
@@ -525,6 +558,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords 6.792 -0.888 -11.967
@@ -580,6 +616,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
      }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
+     }
     }
     coords 6.788 1.095 13.052
     angleY -177.278
@@ -627,6 +666,9 @@ $grp GenericEntity : "{644AEC5C537E03F0}Prefabs/Systems/AmbientVehicles/AmbientV
       m_eGroupType TEAM_TRUCK
       m_bIsVehicleGroup 1
       m_iGroupMultiplier 5
+     }
+     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+      "faction affiliation" "RHS_AFRF"
      }
     }
     coords 5.076 -0.273 -4.2

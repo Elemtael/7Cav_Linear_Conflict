@@ -12,6 +12,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords -8.176 1.692 7.5
      angleX 3.215
@@ -25,6 +28,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords -179.356 49.703 -62.542
@@ -58,6 +64,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 2.197 -0.451 14.954
      angleX 4.671
@@ -71,6 +80,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 261.329 17.713 -34.628
@@ -106,6 +118,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 15.159 1.911 21.139
      angleX 1.136
@@ -119,6 +134,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 211.883 8.997 -106.586
@@ -150,6 +168,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 2.86 0.161 -15.868
      angleX 0.522
@@ -163,6 +184,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 139.267 -5.251 -344.776
@@ -196,6 +220,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 9.012 -1 -18.064
      angleX 3.536
@@ -209,6 +236,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords -212.323 -13.94 -54.026
@@ -242,6 +272,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 12.978 -0.107 -1.21
      angleX -0.317
@@ -255,6 +288,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords -256.299 -42.727 -320.895
@@ -288,6 +324,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 5.003 -2.271 17.617
      angleX -5.082
@@ -301,6 +340,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 470.978 -38.639 27.003
@@ -334,6 +376,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_eGroupType FIRETEAM
        m_fAILimitThreshold 0.66
       }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
+      }
      }
      coords 9.514 0.069 17.185
      angleX 0.933
@@ -347,6 +392,9 @@ $grp GenericEntity : "{27941CDF3E7E1A5F}Prefabs/MP/Campaign/CampaignRemnantsSupp
        m_fAILimitThreshold 0.66
        m_iRespawnWaves -1
        m_iGroupMultiplier 3
+      }
+      SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
+       "faction affiliation" "RHS_AFRF"
       }
      }
      coords 112.828 39.703 -181.688

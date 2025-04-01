@@ -145,6 +145,24 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
       }
      }
     }
+    SCR_EntityCatalogMultiList "{5D4A87EAF0298FBD}" {
+     m_aMultiLists {
+      SCR_EntityCatalogMultiListEntry "{5D4A87E86D216273}" {
+       m_aEntities {
+        SCR_EntityCatalogEntry "{65036B3C716AD8D6}" {
+         m_sEntityPrefab "{8AEB3E3846780747}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821_EffectModule.et"
+         m_aEntityDataList {
+          SCR_ArsenalItem "{65036B3C493632DB}" {
+           m_eItemType MORTARS
+           m_eItemMode AMMUNITION
+           m_iSupplyCost 50
+          }
+         }
+        }
+       }
+      }
+     }
+    }
     SCR_EntityCatalogMultiList "{5C68A0E9BD5E5DD9}" {
      m_aEntityEntryList {
       SCR_EntityCatalogEntry "{5C548ABBCDDD71F8}" {
@@ -994,6 +1012,35 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         }
         SCR_EntityCatalogInventoryItem "{622764B6927E7EFE}" {
          m_bEnabled 0
+        }
+       }
+      }
+      SCR_EntityCatalogMultiListEntry "{5D4A8E6F2C97443B}" {
+       m_aEntities {
+        SCR_EntityCatalogEntry "{65036B3F68F452AE}" {
+         m_sEntityPrefab "{38BAE094333E31BF}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_HE_M821.et"
+         m_aEntityDataList {
+          SCR_ArsenalItem "{65036B3F493E317A}" {
+           m_eItemType MORTARS
+           m_iSupplyCost 50
+          }
+         }
+        }
+        SCR_EntityCatalogEntry "{65036B306B02079E}" {
+         m_sEntityPrefab "{DD2065AE34D8DFA9}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Illum_M853A1.et"
+         m_aEntityDataList {
+          SCR_ArsenalItem "{65036B3052E7CF9C}" {
+           m_eItemType MORTARS
+          }
+         }
+        }
+        SCR_EntityCatalogEntry "{65036B31BFFCF54F}" {
+         m_sEntityPrefab "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et"
+         m_aEntityDataList {
+          SCR_ArsenalItem "{65036B31B4973284}" {
+           m_eItemType MORTARS
+          }
+         }
         }
        }
       }

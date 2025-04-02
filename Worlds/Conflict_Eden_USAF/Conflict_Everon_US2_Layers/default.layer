@@ -1089,6 +1089,9 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         SCR_EntityCatalogInventoryItem "{5F1F701B141FE129}" {
          m_bEnabled 0
         }
+        SCR_EntityCatalogInventoryItem "{5E22CEC92125910C}" {
+         m_sEntityPrefab "{294631A03D9ED46D}Prefabs/Items/Equipment/Kits/RearmingKit_01/RearmingKit_01_RHS_USAF.et"
+        }
        }
       }
       SCR_EntityCatalogMultiListEntry "{64F2F9332D94165C}" {

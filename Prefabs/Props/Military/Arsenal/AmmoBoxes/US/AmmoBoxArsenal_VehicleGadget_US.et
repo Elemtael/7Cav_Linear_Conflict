@@ -1,0 +1,8 @@
+GenericEntity : "{BC383D4321CABC6B}Prefabs/Props/Military/Arsenal/AmmoBoxes/AmmoBoxArsenal_VehicleGadget_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_FactionAffiliationComponent "{5A50E7650A1AE9EC}" {
+   "faction affiliation" "RHS_USAF"
+  }
+ }
+}

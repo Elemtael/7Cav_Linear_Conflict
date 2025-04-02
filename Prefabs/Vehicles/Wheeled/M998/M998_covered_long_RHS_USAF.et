@@ -12,9 +12,9 @@ Vehicle : "{9B1BF9644E0378D6}Prefabs/Vehicles/Wheeled/M998/M998_covered_long.et"
       m_BudgetType RANK_PRIVATE
       m_Value 1
      }
-     SCR_EntityBudgetValue "{64FD1A1BAF5D9BA9}" {
-      m_BudgetType RANK_CORPORAL
-      m_Value 2
+     SCR_EntityBudgetValue "{64537B95362236F5}" {
+      m_BudgetType PROPS
+      m_Value 1
      }
     }
    }

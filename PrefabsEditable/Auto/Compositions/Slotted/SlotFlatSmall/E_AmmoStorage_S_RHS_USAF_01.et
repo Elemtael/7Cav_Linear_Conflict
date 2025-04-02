@@ -228,6 +228,9 @@ GenericEntity : "{7C367E9261376345}Prefabs/Compositions/Slotted/SlotFlatSmall/Am
     GenericEntity {
      ID "5D371ACBFA947460"
      components {
+      SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
+       m_eSupportedArsenalItemTypes 654528
+      }
       SCR_FactionAffiliationComponent "{5A50E7655452A21D}" {
        "faction affiliation" "RHS_USAF"
       }

@@ -1,0 +1,11 @@
+GenericEntity : "{59D6B1466E9A7A64}Prefabs/Props/Military/Compositions/US/PersonnelService_US.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_CampaignBuildingProviderComponent "{5ED7185081A6289C}" {
+   m_iRank PRIVATE
+  }
+  SCR_FactionAffiliationComponent "{5D22B92ED7E59790}" {
+   "faction affiliation" "RHS_USAF"
+  }
+ }
+}

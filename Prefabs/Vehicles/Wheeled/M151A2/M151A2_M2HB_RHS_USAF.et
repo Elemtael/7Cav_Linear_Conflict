@@ -13,7 +13,7 @@ Vehicle : "{F6B23D17D5067C11}Prefabs/Vehicles/Wheeled/M151A2/M151A2_M2HB.et" {
       m_Value 1
      }
      SCR_EntityBudgetValue "{64537B94C9506E6E}" {
-      m_BudgetType RANK_PRIVATE
+      m_BudgetType PROPS
       m_Value 1
      }
     }

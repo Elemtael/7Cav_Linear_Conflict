@@ -1,0 +1,8 @@
+GenericEntity : "{541D161EFAF67003}Prefabs/Props/Military/Arsenal/AmmoBoxes/AmmoBoxArsenal_Explosives_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SCR_FactionAffiliationComponent "{5A50E7650A1AE9EC}" {
+   "faction affiliation" "RHS_USAF"
+  }
+ }
+}

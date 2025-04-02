@@ -360,6 +360,56 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
    m_aEntityCatalogs {
     SCR_EntityCatalogMultiList "{5C68A0EE815FA292}" : "{EC55D8934083023D}Configs/EntityCatalog/USMC/USMC_Characters.conf" {
      m_aEntityEntryList {
+      SCR_EntityCatalogEntry "{62316A43F8ACAD6D}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040946AFDE85D1}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{65040946AC076B4E}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{62316A43CF7AF71A}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{6504094631F3E87A}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{6504094625A526B3}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{62316A43A4B7B54D}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040946F4F4D632}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{65040946EBF03416}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{62316A43A0D4FAED}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{650409469FDEB893}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{650409469895C6B0}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{62316A43BE4791C3}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040946904E4067}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{65040946891B28C7}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
       SCR_EntityCatalogEntry "{60F6DBABF56FA210}" {
        m_sEntityPrefab "{5EFC243926EE6808}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Randomized.et"
        m_aEntityDataList {
@@ -890,9 +940,19 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         }
         SCR_EntityCatalogEntry "{64F6D4B510DDC994}" {
          m_sEntityPrefab "{582DF5BFB3C68573}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS_USAF.et"
+         m_aEntityDataList {
+          SCR_EntityCatalogEditorData "{62ACD28FAD547DD7}" {
+           m_eValidEditorModes 33
+          }
+         }
         }
         SCR_EntityCatalogEntry "{64F6D4B519E281B0}" {
          m_sEntityPrefab "{A4754DBC1974086F}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS_USAF_D.et"
+         m_aEntityDataList {
+          SCR_EntityCatalogEditorData "{64F6D4B519E281ED}" {
+           m_eValidEditorModes 33
+          }
+         }
         }
        }
       }
@@ -936,6 +996,48 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
      }
     }
     SCR_EntityCatalogMultiList "{5C68A0EE8B97CA50}" : "{4E0451E583FD2B90}Configs/EntityCatalog/USMC/USMC_Groups.conf" {
+     m_aEntityEntryList {
+      SCR_EntityCatalogEntry "{5D4A8E6044D3805E}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040958D8880C32}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{65040958D0B078FE}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{5D4A8E6F9698375F}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{6504094798FF9312}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{650409478C68E7D1}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{5D4A8E6F965ACAF6}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040947FD1A3DAF}" {
+         m_eSlotTypes GROUP_SMALL
+        }
+        SCR_EntityCatalogEditorData "{65040947E55B55E9}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+      SCR_EntityCatalogEntry "{5D4A8E6F93DE78CC}" {
+       m_aEntityDataList {
+        SCR_EntityCatalogSpawnerData "{65040947DD16A37C}" {
+         m_eSlotTypes GROUP_MEDIUM
+        }
+        SCR_EntityCatalogEditorData "{65040947D5E3C34F}" {
+         m_eValidEditorModes 33
+        }
+       }
+      }
+     }
     }
     SCR_EntityCatalog "{5C68A0EEB7DB3E84}" : "{C1D8DC37BD2782E9}Configs/EntityCatalog/USMC/USMC_WeaponTripod.conf" {
     }

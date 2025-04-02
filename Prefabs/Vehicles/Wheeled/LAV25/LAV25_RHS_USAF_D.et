@@ -24,6 +24,9 @@ Vehicle : "{3312ADBF53A16DD8}Prefabs/Vehicles/Wheeled/LAV25/LAV25_RHS.et" {
   SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
    m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
     m_Image "{6305AC3FC25442E0}UI/Textures/EditorPreviews/Vehicles/Wheeled/LAV25/LAV25_RHS_D.edds"
+    m_aAutoLabels {
+     1677929688 122
+    }
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{64891D4FBACD4B66}" {
       m_BudgetType RANK_PRIVATE

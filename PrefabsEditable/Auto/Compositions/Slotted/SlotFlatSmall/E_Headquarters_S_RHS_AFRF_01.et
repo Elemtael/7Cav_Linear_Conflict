@@ -450,6 +450,11 @@ GenericEntity : "{2A3B53114DEAA60B}Prefabs/Compositions/Slotted/SlotFlatSmall/He
    {
     GenericEntity {
      ID "5D3706BECE3A18AD"
+     components {
+      SCR_FactionAffiliationComponent "{5D36D46E9AAC6ACB}" {
+       "faction affiliation" "RHS_AFRF"
+      }
+     }
      Flags 1048576
      {
       GenericEntity {
@@ -516,6 +521,9 @@ GenericEntity : "{2A3B53114DEAA60B}Prefabs/Compositions/Slotted/SlotFlatSmall/He
     SCR_EditableSpawnPointComponent "{52E65E94E3532698}" {
      m_UIInfo SCR_EditableDescriptorUIInfo "{52E65E94C47560A2}" {
       m_sFaction "RHS_AFRF"
+      m_aAuthoredLabels {
+       7 30 1653989487
+      }
      }
     }
     SCR_FactionAffiliationComponent "{5A5286F8ED58877B}" {

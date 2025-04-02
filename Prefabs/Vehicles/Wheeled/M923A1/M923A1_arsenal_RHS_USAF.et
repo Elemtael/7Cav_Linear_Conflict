@@ -9,6 +9,8 @@ Vehicle : "{1FF144F8A209239D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal.et" 
     }
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EF07CF434919DE2}" {
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
      }
     }
    }

@@ -33,8 +33,8 @@ Vehicle : "{9A0D72816DFFDB7F}Prefabs/Vehicles/Wheeled/M923A1/M923A1.et" {
       m_Value 420
      }
      SCR_EntityBudgetValue "{64FD1A1BFC386D67}" {
-      m_BudgetType RANK_SERGEANT
-      m_Value 3
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
      }
     }
    }

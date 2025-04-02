@@ -22,10 +22,6 @@ GenericEntity : "{76D4FE49EA6C57F3}Prefabs/Compositions/Slotted/SlotFlatLarge/Li
       m_BudgetType CAMPAIGN
       m_Value 475
      }
-     SCR_EntityBudgetValue "{64FCFBC390BB2E8D}" {
-      m_BudgetType RANK_SERGEANT
-      m_Value 3
-     }
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{64FCFBC390BB2E8A}" {
@@ -3729,6 +3725,14 @@ GenericEntity : "{76D4FE49EA6C57F3}Prefabs/Compositions/Slotted/SlotFlatLarge/Li
   }
   GenericEntity {
    ID "5D22B92DE81D7971"
+   components {
+    SCR_CampaignBuildingProviderComponent "{5ED7185081A6289C}" {
+     m_iRank PRIVATE
+    }
+    SCR_FactionAffiliationComponent "{5D22B92ED7E59790}" {
+     "faction affiliation" "RHS_USAF"
+    }
+   }
    Flags 1048576
   }
   GenericEntity {

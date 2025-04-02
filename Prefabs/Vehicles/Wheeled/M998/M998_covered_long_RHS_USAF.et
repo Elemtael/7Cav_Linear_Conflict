@@ -8,6 +8,10 @@ Vehicle : "{9B1BF9644E0378D6}Prefabs/Vehicles/Wheeled/M998/M998_covered_long.et"
      1677929688 122 50
     }
     m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{64537B9564944B3C}" {
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
+     }
      SCR_EntityBudgetValue "{64FD1A1BAF5D9BA9}" {
       m_BudgetType RANK_CORPORAL
       m_Value 2

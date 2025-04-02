@@ -12,8 +12,8 @@ Vehicle : "{CB4D4CF7E887B2D0}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunshi
       m_Value 4750
      }
      SCR_EntityBudgetValue "{5EF07CE9B4A73374}" {
-      m_BudgetType RANK_GENERAL
-      m_Value 8
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
      }
     }
    }

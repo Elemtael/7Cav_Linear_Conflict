@@ -1089,6 +1089,28 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         SCR_EntityCatalogInventoryItem "{5F1F701B141FE129}" {
          m_bEnabled 0
         }
+        SCR_EntityCatalogInventoryItem "{5D4A8E6F2C974414}" {
+         m_aEntityDataList {
+          SCR_ArsenalItem "{5D4A8E6F2C974415}" {
+          }
+         }
+        }
+        SCR_EntityCatalogInventoryItem "{5E8D26848C6EBD82}" {
+        }
+        SCR_EntityCatalogInventoryItem "{5DEB6A6FFBA1E2AD}" {
+         m_aEntityDataList {
+          SCR_ArsenalItem "{5DEB6A6FF5DBEECB}" {
+           m_iSupplyCost 0
+          }
+         }
+        }
+        SCR_EntityCatalogInventoryItem "{5DEB6A6FE8E70C0B}" {
+         m_aEntityDataList {
+          SCR_ArsenalItem "{5DEB6A6FE50B5DC9}" {
+           m_iSupplyCost 0
+          }
+         }
+        }
         SCR_EntityCatalogInventoryItem "{5E22CEC92125910C}" {
          m_sEntityPrefab "{294631A03D9ED46D}Prefabs/Items/Equipment/Kits/RearmingKit_01/RearmingKit_01_RHS_USAF.et"
         }
@@ -2367,6 +2389,11 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
     }
    }
    m_BaseBuildingHQ "{847605BB95F1F066}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Headquarters_S_USSR_01.et"
+  }
+  SCR_Faction "{60DCF47AEF40BD72}" {
+   m_aFriendlyFactionsIds {
+    "RHS_USAF" "RHS_AFRF"
+   }
   }
  }
  m_aRanks {

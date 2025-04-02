@@ -353,6 +353,7 @@ GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/F
    }
   }
  }
+ coords 0 0 0
  {
   GameEntity {
    ID "5D088D1F96898F45"
@@ -558,6 +559,11 @@ GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/F
     }
     GenericEntity {
      ID "620EDD9C7774D884"
+     components {
+      SCR_FactionAffiliationComponent "{5A50E7650A1AE9EC}" {
+       "faction affiliation" "RHS_USAF"
+      }
+     }
      Flags 1048576
     }
     StaticModelEntity {
@@ -1200,6 +1206,11 @@ GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/F
       }
       GenericEntity {
        ID "620EDD9D6788C0CB"
+       components {
+        SCR_FactionAffiliationComponent "{5A50E7650A1AE9EC}" {
+         "faction affiliation" "RHS_USAF"
+        }
+       }
        Flags 1048576
       }
      }

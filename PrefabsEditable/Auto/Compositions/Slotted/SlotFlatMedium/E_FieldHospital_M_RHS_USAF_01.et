@@ -22,10 +22,6 @@ GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/F
       m_BudgetType CAMPAIGN
       m_Value 300
      }
-     SCR_EntityBudgetValue "{64FCFBC3B75A216A}" {
-      m_BudgetType RANK_CORPORAL
-      m_Value 2
-     }
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{64FCFBC3B75A2174}" {

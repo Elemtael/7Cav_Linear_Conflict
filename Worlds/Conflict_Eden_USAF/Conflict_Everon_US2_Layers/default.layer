@@ -793,61 +793,6 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         }
        }
       }
-      SCR_EntityCatalogEntry "{61525016C5D39DE4}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D7554060BDCF32}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D7554063868D6C}" {
-        }
-       }
-      }
-      SCR_EntityCatalogEntry "{61525016C7EB221F}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D755405380083E}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D755405449A903}" {
-        }
-       }
-      }
-      SCR_EntityCatalogEntry "{61525016C83673F2}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D755405D399B89}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D755405F5C1A21}" {
-        }
-       }
-      }
-      SCR_EntityCatalogEntry "{61525016C94C7FDD}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D7554047D5766A}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D755404937AD81}" {
-        }
-       }
-      }
-      SCR_EntityCatalogEntry "{615250168265195D}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D755403394EC7B}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D7554035D34BD4}" {
-        }
-       }
-      }
-      SCR_EntityCatalogEntry "{61525016835C7225}" {
-       m_aEntityDataList {
-        SCR_EntityCatalogSpawnerData "{61D755403C87E583}" {
-         m_eSlotTypes GROUP_SMALL
-        }
-        SCR_EntityCatalogLoadoutData "{61D755403EA357DB}" {
-         m_fSpawnSupplyCost 100
-        }
-       }
-      }
       SCR_EntityCatalogEntry "{62061C9353BD4849}" {
        m_sEntityPrefab "{E3BDF4CDFB758ABA}Prefabs/Characters/Campaign/Final/CPR_US_Player_MG.et"
       }
@@ -931,6 +876,11 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
         }
         SCR_EntityCatalogEntry "{61835C0266A83C23}" {
          m_sEntityPrefab "{171AFA590F918891}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_RHS_USAF.et"
+         m_aEntityDataList {
+          SCR_EntityCatalogEditorData "{650364EBAEB2E4A7}" {
+           m_eValidEditorModes 33
+          }
+         }
         }
         SCR_EntityCatalogEntry "{61835C02617DA12A}" {
          m_sEntityPrefab "{3FFC47B08499304C}Prefabs/Vehicles/Wheeled/M923A1/M923A1_arsenal_RHS_USAF.et"
@@ -950,53 +900,38 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
        m_aEntities {
         SCR_EntityCatalogEntry "{61835C021732E80B}" {
          m_sEntityPrefab "{39BFD3BB636E917D}Prefabs/Vehicles/Helicopters/UH1H/UH1H_RHS_USAF.et"
+         m_aEntityDataList {
+          SCR_EntityCatalogEditorData "{650364EB24ABBB7F}" {
+           m_eValidEditorModes 33
+          }
+         }
         }
         SCR_EntityCatalogEntry "{62D2F3D1EB0EA86A}" {
          m_sEntityPrefab "{F560D3BFDDD551FA}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_RHS_USAF.et"
         }
         SCR_EntityCatalogEntry "{64FD3DDCDA44E870}" {
          m_sEntityPrefab "{AC80040AF9C13141}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HE_RHS_USAF.et"
+         m_aEntityDataList {
+          SCR_EntityCatalogSpawnerData "{650364E8DA2486DB}" {
+           m_eSlotTypes VEHICLE_LARGE
+          }
+          SCR_EntityCatalogEditorData "{650364EB7F29950E}" {
+           m_eValidEditorModes 33
+          }
+         }
         }
         SCR_EntityCatalogEntry "{64FD3DDCD5A0F7C6}" {
          m_sEntityPrefab "{55C9FD304D8D58A9}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_gunship_HEDP_RHS_USAF.et"
-        }
-       }
-      }
-      SCR_EntityCatalogMultiListEntry "{60569780DE4EE17A}" {
-       m_aEntities {
-        SCR_EntityCatalogEntry "{605098A545E912FC}" {
-         m_bEnabled 0
-        }
-        SCR_EntityCatalogEntry "{5D23482664F150D9}" {
-         m_bEnabled 0
          m_aEntityDataList {
-          SCR_EntityCatalogEditorData "{6052BB10DE50FA41}" {
-           m_eValidEditorModes EDIT
+          SCR_EntityCatalogSpawnerData "{650364EB603DAF49}" {
+           m_eSlotTypes VEHICLE_LARGE
           }
-         }
-        }
-        SCR_EntityCatalogEntry "{6064E51C196084B2}" {
-         m_sEntityPrefab "{9CB496688A3BCC3E}Prefabs/MP/Campaign/Assets/CampaignMobileAssemblyWest.et"
-         m_aEntityDataList {
-          SCR_EntityCatalogEditorData "{6064E51C31106C57}" {
+          SCR_EntityCatalogEditorData "{650364EB59B5BB6E}" {
            m_eValidEditorModes 33
           }
-          SCR_EntityCatalogSpawnerData "{6064E51C30E92A0B}" {
-           m_eSlotTypes VEHICLE_MEDIUM
-          }
          }
         }
        }
-      }
-      SCR_EntityCatalogMultiListEntry "{60569780DC27DDBC}" {
-       m_aEntities {
-        SCR_EntityCatalogEntry "{5D23482661E39833}" {
-        }
-        SCR_EntityCatalogEntry "{60C3186FC18A1A22}" {
-        }
-       }
-      }
-      SCR_EntityCatalogMultiListEntry "{5C9AD18D0588C053}" {
       }
      }
     }
@@ -1064,6 +999,7 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
      }
     }
    }
+   m_BaseBuildingHQ "{33D9A11604A71629}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Headquarters_S_RHS_USAF_01.et"
   }
   SCR_CampaignFaction "{56F0C3A6336375DC}" {
    FactionColor 0.561 0.071 0.071 1

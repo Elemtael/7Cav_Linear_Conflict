@@ -21,10 +21,6 @@ GenericEntity : "{E74D2F51CD4F03D0}Prefabs/Compositions/Slotted/SlotRoadLarge/Ch
       m_BudgetType CAMPAIGN
       m_Value 350
      }
-     SCR_EntityBudgetValue "{64FD1A02B179ADCB}" {
-      m_BudgetType RANK_CORPORAL
-      m_Value 2
-     }
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{64FD1A02B179ADF6}" {

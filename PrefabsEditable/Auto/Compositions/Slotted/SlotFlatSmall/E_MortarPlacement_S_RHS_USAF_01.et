@@ -16,10 +16,6 @@ GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSmall/Mo
       m_BudgetType CAMPAIGN
       m_Value 400
      }
-     SCR_EntityBudgetValue "{64FD1A02DE4030DA}" {
-      m_BudgetType RANK_SERGEANT
-      m_Value 3
-     }
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{64FD1A02DE4030E7}" {

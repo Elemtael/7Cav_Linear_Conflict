@@ -1329,6 +1329,11 @@ GenericEntity : "{FB18EFE9C1A81E29}Prefabs/Compositions/Slotted/SlotFlatMedium/V
   }
   GenericEntity {
    ID "5D22B941BA4ECAA0"
+   components {
+    SCR_FactionAffiliationComponent "{5D22B92ED0ABBFD4}" {
+     "faction affiliation" "RHS_USAF"
+    }
+   }
    Flags 1048576
   }
   GenericEntity {
@@ -1561,10 +1566,25 @@ GenericEntity : "{FB18EFE9C1A81E29}Prefabs/Compositions/Slotted/SlotFlatMedium/V
   }
   GenericEntity {
    ID "5E690688EBC16840"
+   components {
+    SCR_FactionAffiliationComponent "{5A50E7650A1AE9EC}" {
+     "faction affiliation" "RHS_USAF"
+    }
+   }
    Flags 1048576
   }
   GenericEntity {
    ID "5E69068BCF216025"
+   components {
+    SCR_EditableDescriptorComponent "{5B2AD5BA907797AD}" {
+     m_UIInfo SCR_EditableEntityUIInfo "{5B2AD5BA8B7D34AD}" {
+      m_sFaction "RHS_USAF"
+      m_aAuthoredLabels + {
+       1677929688
+      }
+     }
+    }
+   }
    Flags 1048576
   }
   StaticModelEntity {

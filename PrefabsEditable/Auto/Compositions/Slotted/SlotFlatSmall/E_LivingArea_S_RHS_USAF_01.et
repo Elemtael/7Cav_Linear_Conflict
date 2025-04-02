@@ -22,10 +22,6 @@ GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSmall/Li
       m_BudgetType CAMPAIGN
       m_Value 275
      }
-     SCR_EntityBudgetValue "{64FCFBC31B33AF25}" {
-      m_BudgetType RANK_SERGEANT
-      m_Value 3
-     }
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{64FCFBC31B33AF23}" {
@@ -583,6 +579,40 @@ GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSmall/Li
   }
   GenericEntity {
    ID "5D22B92C55FB6E83"
+   components {
+    SCR_CampaignBuildingProviderComponent "{5ED7185081A6289C}" {
+     m_iRank PRIVATE
+     m_aBudgetsToEvaluate {
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916C57FA4892}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{5EF691A870469D7E}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{5EF691A868F80123}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916C41CF5E37}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916CB43845D4}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916CACD26154}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916CA8DB5531}" {
+       m_eBudget 2147483647
+      }
+      SCR_CampaignBuildingRankBudgetToEvaluateData "{60EC916CA69F603C}" {
+       m_eBudget 2147483647
+      }
+     }
+    }
+    SCR_FactionAffiliationComponent "{5D22B92ED7E59790}" {
+     "faction affiliation" "RHS_USAF"
+    }
+   }
    Flags 1048576
   }
   GenericEntity {

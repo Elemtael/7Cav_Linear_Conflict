@@ -167,9 +167,9 @@ Vehicle : "{5674FAEB9AB7BDD0}Prefabs/Vehicles/Wheeled/M998/M998.et" {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
       m_Value 240
      }
-     SCR_EntityBudgetValue "{64FD1A1BA4FE23E7}" {
-      m_BudgetType RANK_CORPORAL
-      m_Value 2
+     SCR_EntityBudgetValue "{64537B9564944B3C}" {
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
      }
     }
     m_aOccupantFillCompartmentTypes +{

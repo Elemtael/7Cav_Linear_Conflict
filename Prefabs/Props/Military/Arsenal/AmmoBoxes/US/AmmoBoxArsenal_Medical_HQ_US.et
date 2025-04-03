@@ -16,6 +16,12 @@ GenericEntity : "{891EF8A5FB7162F1}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/A
       m_iSupplyCost 0
       m_ItemResourceName "{00E36F41CA310E2A}Prefabs/Items/Medicine/SalineBag_01/SalineBag_US_01.et"
      }
+     SCR_ArsenalItemStandalone "{6507595D681F1DE5}" {
+      m_eItemType HEAL
+      m_eItemMode CONSUMABLE
+      m_iSupplyCost 0
+      m_ItemResourceName "{5B2FD067D70C1E8F}Prefabs/Items/Medicine/EpinephrineInjection/ACE_Medical_EpinephrineInjection.et"
+     }
     }
    }
   }

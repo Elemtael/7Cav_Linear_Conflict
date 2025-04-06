@@ -887,7 +887,7 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
       }
      }
     }
-    SCR_EntityCatalogMultiList "{5C9E82F29B327997}" : "{C200F54EB67899D1}Configs/EntityCatalog/USMC/USMC_Vehicles.conf" {
+    SCR_EntityCatalogMultiList "{5C9E82F29B327997}" : "{A885F7C42E12F289}Configs/EntityCatalog/USMC/Cav_Vehicle_List.conf" {
      m_aMultiLists {
       SCR_EntityCatalogMultiListEntry "{61835C01E90BB7D5}" {
        m_aEntities {

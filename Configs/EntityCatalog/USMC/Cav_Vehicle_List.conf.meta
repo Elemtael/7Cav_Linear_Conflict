@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A885F7C42E12F289}Configs/EntityCatalog/USMC/Cav_Vehicle_List.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

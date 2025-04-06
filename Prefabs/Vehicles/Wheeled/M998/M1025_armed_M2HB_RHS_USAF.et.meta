@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{43A8B90150017FFD}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_RHS_USAF.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
